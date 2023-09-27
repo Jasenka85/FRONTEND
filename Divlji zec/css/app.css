@@ -5,7 +5,9 @@
 }
 
 .mojbody
-{background-color: #355E3B;}
+{
+  background-color: #355E3B;
+}
 
 
 
@@ -43,9 +45,17 @@
 }
 
 
-.istakni{border: 3px #BD70A5 solid;}
+.istakni
+{
+border: 3px #BD70A5 solid;
+padding: 10px;
+}
 
-.primjer{border: 3px #4DDCB6 solid; padding:20px;}
+.primjer
+{
+  border: 3px #4DDCB6 solid; 
+  padding:20px;
+}
 
 
 
