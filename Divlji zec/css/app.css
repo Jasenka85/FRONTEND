@@ -95,17 +95,31 @@ padding: 10px;
 {
   border-collapse: collapse;
   align-self: center;
+  font-size: 12px;
 }
 
 .lijevo table td 
 { 
+  text-align: center;
   border: 1px #78E672 solid; 
+  background-color: white;
   padding:5px; 
 }
 
-.lijevo table th 
+.lijevo table td.zeleno
+{
+  background-color: #E3F6CE;
+}
+
+
+
+
+.lijevo table thead td
 { 
-  border: 1px #78E672 solid; 
+  font-weight: bold;
+  text-align: center;
+  border: 1px #78E672 solid;
+  background-color: #E3F6CE;
   padding:5px; 
 }
 
@@ -115,11 +129,23 @@ padding: 10px;
 
 .lijevo table.slika td
 {
+  text-align: center;
   border: 0;
   padding: 0;
   background-color: white;
 }
 
+.ispodslike
+{
+text-align: center;
+margin-top: 0;
+}
+
+.lijevo table.minigalerija td
+{
+border: 0;
+padding: 0;
+}
 
 .desno
 {
