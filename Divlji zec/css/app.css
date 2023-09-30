@@ -13,14 +13,14 @@
 
 .mojmenu 
 {
-  background-color: #9ABF50;
+  background-color: #7BA428;
   color: white;
   font-size: 15px;
 }
 
 .mojmenu li ul li
 {
-  background-color: #9ABF50;
+  background-color: #7BA428;
   color: white;
   font-size: 13px;
   border-bottom: 1px dotted #aad06d;
@@ -29,13 +29,13 @@
 
 .mojmenu ul, .mojmenu li, .mojmenu a
 {
-  background-color: #9ABF50;
+  background-color: #7BA428;
   color: white;
 }
 
 .mojmenu a:hover, .mojmenu li:hover
 {
-  background-color: #7BA428;
+  background-color: #528009;
   color: white;
 }
 
@@ -109,9 +109,14 @@ padding: 10px;
   padding:5px; 
 }
 
+
+
+
+
 .lijevo table.slika td
 {
   border: 0;
+  padding: 0;
   background-color: white;
 }
 
