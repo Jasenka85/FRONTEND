@@ -82,7 +82,7 @@
 
 #imageData #numberDisplay{ display: block; clear: left; padding-bottom: 1.0em;	}			
 
-#imageData #bottomNavClose{ width: 30%; float: right;  padding-bottom: 0.7em;	}	
+#imageData #bottomNavClose{ width: 100px; float: right;  padding-bottom: 0.7em;	}	
 		
 
 #overlay{
