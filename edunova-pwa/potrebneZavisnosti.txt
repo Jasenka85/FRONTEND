@@ -1,0 +1,9 @@
+npm install   ako nemamo folder build
+
+npm install react-router-dom
+npm install react-bootstrap bootstrap
+npm install axios
+npm install react-number-format
+npm install react-icons
+
+npm run build   kada želimo publish

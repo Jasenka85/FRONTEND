@@ -48,8 +48,10 @@
 .istakni
 {
 border: 3px #BD70A5 solid;
-padding: 15px;
+padding-left: 15px;
+padding-right: 15px;
 padding-top: 20px;
+padding-bottom: 10px;
 }
 
 .primjer
